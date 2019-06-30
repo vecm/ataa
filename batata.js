@@ -1,0 +1,1 @@
+alert('VOCÊ É GAY, O GOOGLE COMPROVA ISSO!')
